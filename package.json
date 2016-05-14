@@ -1,0 +1,14 @@
+{
+  "name": "alexa-cr-news",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "feedparser": "^1.1.4",
+    "request": "^2.71.0",
+    "striptags": "^2.1.1"
+  }
+}
